@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <head> </head> <!-- No hace falta pero se pone recomendable -->
+    <body>
+        <h1> Practica I - Ejercicio 1 </h1>
+        <p> Hola<br>mundo </p>
+    </body>
+</html>

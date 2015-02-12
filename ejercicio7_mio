@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>CSSAI -­‐ Practica II </title>
+    </head>
+    <body>
+        <h1>Practica I - Ejercicio 7 </h1>
+        <table>
+            <tr>
+                <td><video src= "http://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_surround-­‐fix.avi"
+                    poster="http://media.xiph.org/BBB/BBB-360-png/big_buck_bunny_00703.png" width=400 controls/a>
+                </td>
+            </tr>
+            <tr>
+                <!--# con iframe sale lo mismo pero podria no coincidir el layout -->
+                <td><video src= "http://media.w3.org/2010/05/sintel/trailer.webm"
+                    poster="http://media.w3.org/2010/05/sintel/poster.png" width=400 controls/a>
+                </td>
+            </tr>
+            <tr>
+                <td><video src= "http://simpl.info/video/video/chrome.webm"
+                    poster="http://simpl.info/video/images/poster.jpg" width=400 controls/a>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
